@@ -1,0 +1,12 @@
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe.config
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.pdb
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csprojResolveAssemblyReference.cache
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.pdb
+F:\SSD\Projects\Console Applications\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe.config
+F:\SSD\Projects\Console Applications\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.exe
+F:\SSD\Projects\Console Applications\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.pdb
+F:\SSD\Projects\Console Applications\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe
+F:\SSD\Projects\Console Applications\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.pdb
+F:\SSD\Projects\Console Applications\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csprojResolveAssemblyReference.cache
